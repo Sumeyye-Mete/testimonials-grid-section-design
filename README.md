@@ -7,7 +7,7 @@ Welcome to my web page project, where I've used HTML, CSS to create responsive w
 Here are a couple of screenshots from my project:
 
 ![](/images/Screenshot-desktop.png)
-![](/images/Screenshot-phone.png)
+<img src="./images/Screenshot-phone.png" width="50%">
 
 ## Technologies Used
 - HTML
